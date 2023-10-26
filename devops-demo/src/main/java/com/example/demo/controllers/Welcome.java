@@ -10,5 +10,10 @@ public class Welcome {
 	public String[] getcity() {
 		return new String[] {"Hyd","Pune"};
 	}
+	
+	public String[] getHotels() {
+		return new String[] {"Paradise","Sangeetha"};
+	}
+	
 
 }
